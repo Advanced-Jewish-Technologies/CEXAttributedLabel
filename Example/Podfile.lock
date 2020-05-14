@@ -1,0 +1,16 @@
+PODS:
+  - CEXAttributedLabel (0.1.0)
+
+DEPENDENCIES:
+  - CEXAttributedLabel (from `../`)
+
+EXTERNAL SOURCES:
+  CEXAttributedLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CEXAttributedLabel: 32792f4cd3ef66a19f148c21a84ce25f1e33f3a6
+
+PODFILE CHECKSUM: 0970704d513108abc9477e7604a26ed09157f989
+
+COCOAPODS: 1.9.0

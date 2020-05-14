@@ -1,6 +1,6 @@
 # CEXAttributedLabel
 
-[![CI Status](https://img.shields.io/travis/Sergii Iastremskyi/CEXAttributedLabel.svg?style=flat)](https://travis-ci.org/Sergii Iastremskyi/CEXAttributedLabel)
+[![CI Status](https://img.shields.io/travis/DarkSatyr/CEXAttributedLabel.svg?style=flat)](https://travis-ci.org/DarkSatyr/CEXAttributedLabel)
 [![Version](https://img.shields.io/cocoapods/v/CEXAttributedLabel.svg?style=flat)](https://cocoapods.org/pods/CEXAttributedLabel)
 [![License](https://img.shields.io/cocoapods/l/CEXAttributedLabel.svg?style=flat)](https://cocoapods.org/pods/CEXAttributedLabel)
 [![Platform](https://img.shields.io/cocoapods/p/CEXAttributedLabel.svg?style=flat)](https://cocoapods.org/pods/CEXAttributedLabel)
@@ -22,7 +22,7 @@ pod 'CEXAttributedLabel'
 
 ## Author
 
-Sergii Iastremskyi, s.iastremskyi@wnb.com.ua
+DarkSatyr, isergiisf@gmail.com
 
 ## License
 

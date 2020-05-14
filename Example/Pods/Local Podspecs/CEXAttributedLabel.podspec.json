@@ -1,0 +1,22 @@
+{
+  "name": "CEXAttributedLabel",
+  "version": "0.1.0",
+  "summary": "A short description of CEXAttributedLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sergii Iastremskyi/CEXAttributedLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sergii Iastremskyi": "s.iastremskyi@wnb.com.ua"
+  },
+  "source": {
+    "git": "https://github.com/Sergii Iastremskyi/CEXAttributedLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CEXAttributedLabel/Classes/**/*"
+}

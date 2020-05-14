@@ -1,0 +1,6 @@
+framework module CEXAttributedLabel {
+  umbrella header "CEXAttributedLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
