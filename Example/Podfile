@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CEXAttributedLabel_Tests' do
+  pod 'CEXAttributedLabel', :path => '../'
+  
+  
+end
