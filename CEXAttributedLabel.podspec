@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CEXAttributedLabel'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of CEXAttributedLabel.'
+  s.version          = '0.2.0'
+  s.summary          = 'A drop-in replacement for UILabel that supports attributes, data detectors, links, and more.'
   s.homepage         = 'https://github.com/Advanced-Jewish-Technologies/CEXAttributedLabel'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
